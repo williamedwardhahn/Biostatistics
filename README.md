@@ -17,3 +17,5 @@ https://drive.google.com/file/d/196l0JJO8sb0kdSkceEly6b10h0xwng_w/view?usp=shari
 
 
 ## Lab 1
+Python Notes
+https://github.com/williamedwardhahn/Biostatistics/blob/master/Python_Notes.pdf

@@ -5,9 +5,11 @@
 ## Setup
 Templates:
 
-https://colab.research.google.com/notebooks/markdown_guide.ipynb
-https://www.overleaf.com/read/qpfrmtfdjvbp
-https://www.overleaf.com/read/xhsvcwnrkzns
+Colab: https://colab.research.google.com/notebooks/markdown_guide.ipynb
+
+Lab Report: https://www.overleaf.com/read/qpfrmtfdjvbp
+
+Lab Presentation: https://www.overleaf.com/read/xhsvcwnrkzns
 
 Rex Adelberger: 
 Guide to Preparing a Lab Report

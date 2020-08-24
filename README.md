@@ -1,6 +1,6 @@
 <img src='https://github.com/williamedwardhahn/Biostatistics/blob/master/Screen%20Shot%202012-05-31%20at%2010.20.33%20AM.png'>
 
-Biostatistics
+# Biostatistics
 
 ## Setup
 Templates:

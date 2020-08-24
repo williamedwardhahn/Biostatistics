@@ -1,5 +1,5 @@
 # Biostatistics
 
-##Welcome and Setup
+## Welcome and Setup
 
-##Lab 1
+## Lab 1

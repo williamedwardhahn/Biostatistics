@@ -36,8 +36,9 @@ https://youtu.be/m5V9QqTRGjk?t=501
 The advent of powerful computers has changed the game. Nowadays, the analysis of statistical data is (or at least should be) a highly interactive process: you look at the data, and generate models which may explain your data. Then you determine the best fit parameters for these models, and check these models, typically by looking at the residuals. If you are not happy with the results, you modify the model to improve the correspondence between models and data." p.121 - An Introduction to Statistics with Python With Applications in the Life Sciences by Thomas Haslwanter
 
 
+
+### Why Python?
 From: https://scipy-lectures.org/intro/intro.html#why-python
-Why Python?
 * Get data (simulation, experiment control),
 * Manipulate and process data,
 * Visualize results, quickly to understand, but also with high quality figures, for reports or publications.

@@ -43,8 +43,7 @@ From time 8:50-18:00
 https://youtu.be/m5V9QqTRGjk?t=501
 
 
-"In 'the old days' (before computers with almost unlimited computational power were available), the statistical analysis of data was typically restricted to hypothesis tests: you formulate a hypothesis, collect your data, and then accept or reject the hypothesis. The resulting hypothesis tests form the basic framework for by far most analyses in medicine and life sciences, and the most important hypotheses tests will be described in the following chapters.
-The advent of powerful computers has changed the game. Nowadays, the analysis of statistical data is (or at least should be) a highly interactive process: you look at the data, and generate models which may explain your data. Then you determine the best fit parameters for these models, and check these models, typically by looking at the residuals. If you are not happy with the results, you modify the model to improve the correspondence between models and data." p.121 - An Introduction to Statistics with Python With Applications in the Life Sciences by Thomas Haslwanter
+"In 'the old days' (before computers with almost unlimited computational power were available), the statistical analysis of data was typically restricted to hypothesis tests... The advent of powerful computers has changed the game. Nowadays, the analysis of statistical data is (or at least should be) a highly interactive process: you look at the data, and generate models which may explain your data. Then you determine the best fit parameters for these models, and check these models, typically by looking at the residuals. If you are not happy with the results, you modify the model to improve the correspondence between models and data." p.121 - An Introduction to Statistics with Python With Applications in the Life Sciences by Thomas Haslwanter
 
 
 

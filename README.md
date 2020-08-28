@@ -72,6 +72,10 @@ https://github.com/williamedwardhahn/Biostatistics/blob/master/Python_Notes2.pdf
 
 ## Lab 2
 
+### Read
+First two chapters of 
+https://github.com/williamedwardhahn/Biostatistics/blob/master/Life_Machinery_Notes.pdf
+
 ### Notebook
 https://colab.research.google.com/drive/1ss5UcImGzrdMavzKtCHfMERu1YeGkTn4?usp=sharing
 

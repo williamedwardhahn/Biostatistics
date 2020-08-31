@@ -70,6 +70,9 @@ https://github.com/williamedwardhahn/Biostatistics/blob/master/Python_Notes.pdf
 Python Notes 2
 https://github.com/williamedwardhahn/Biostatistics/blob/master/Python_Notes2.pdf
 
+## Intro to Github, Colab, and Overleaf
+https://www.youtube.com/watch?v=50wdMpfO9t0
+
 ## Lab 2
 
 ### Read

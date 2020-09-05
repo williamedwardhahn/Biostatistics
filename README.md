@@ -94,7 +94,7 @@ Intro Notes
 https://github.com/williamedwardhahn/Biostatistics/blob/master/Intro_Notes.pdf
 
 ### Notebook
-https://drive.google.com/file/d/1ivYF2NBc1tRKccrtFvtRhtfD3Gtepf46/view?usp=sharing
+https://colab.research.google.com/drive/1nx0aOvpIF2iuuS1SoQ_twZgGjDi3_6Gy?usp=sharing
 
 Comment as much of the code as you can, it is ok if you don't understand all of the pieces. Use the overleaf templates to create a new lab report and a new beamer presentation. Add the output images, code, and commentary from the notebook to each overleaf document.
 

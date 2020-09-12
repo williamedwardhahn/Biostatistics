@@ -100,5 +100,12 @@ Comment as much of the code as you can, it is ok if you don't understand all of 
 
 
 <!--
+
+
+### Notebook
+Flowers 102
+https://colab.research.google.com/drive/1yd33OYJGJpA5hGCuF3Mk_2g-FcgJJY6o?usp=sharing
+
+
 -->
 

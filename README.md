@@ -101,6 +101,9 @@ Comment as much of the code as you can, it is ok if you don't understand all of 
 
 <!--
 
+### Notebook
+Rice
+https://colab.research.google.com/drive/1rXqe5BirkAScEpQlB9QWdfTKZ-sHiidU?usp=sharing
 
 ### Notebook
 Flowers 102

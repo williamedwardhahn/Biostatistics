@@ -104,6 +104,7 @@ Comment as much of the code as you can, it is ok if you don't understand all of 
 
 ### Watch
 https://www.youtube.com/watch?v=Z-YwkZwsyRE
+
 https://www.youtube.com/watch?v=dPv2wx8bZ0M
 
 ### Notebook

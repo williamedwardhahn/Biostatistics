@@ -99,11 +99,17 @@ https://colab.research.google.com/drive/1nx0aOvpIF2iuuS1SoQ_twZgGjDi3_6Gy?usp=sh
 Comment as much of the code as you can, it is ok if you don't understand all of the pieces. Use the overleaf templates to create a new lab report and a new beamer presentation. Add the output images, code, and commentary from the notebook to each overleaf document.
 
 
-<!--
+
+## Lab 4
+
+### Watch
+https://www.youtube.com/watch?v=Z-YwkZwsyRE
+https://www.youtube.com/watch?v=dPv2wx8bZ0M
 
 ### Notebook
-Rice
 https://colab.research.google.com/drive/1rXqe5BirkAScEpQlB9QWdfTKZ-sHiidU?usp=sharing
+
+<!--
 
 ### Notebook
 Flowers 102

@@ -110,12 +110,18 @@ https://www.youtube.com/watch?v=dPv2wx8bZ0M
 ### Notebook
 https://colab.research.google.com/drive/1rXqe5BirkAScEpQlB9QWdfTKZ-sHiidU?usp=sharing
 
-<!--
+
+
+## Lab 5
+
+### Watch https://www.youtube.com/watch?v=AgkfIQ4IGaM
 
 ### Notebook
 Flowers 102
 https://colab.research.google.com/drive/1yd33OYJGJpA5hGCuF3Mk_2g-FcgJJY6o?usp=sharing
 
+
+<!--
 
 -->
 

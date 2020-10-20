@@ -123,6 +123,9 @@ https://colab.research.google.com/drive/1yd33OYJGJpA5hGCuF3Mk_2g-FcgJJY6o?usp=sh
 
 
 <!--
+## Lab 6
+### Notebook
+https://colab.research.google.com/drive/1UE7AGCwRBhBiRgmbyVCYG7aYq-QCBUaT?usp=sharing
 
 -->
 

@@ -130,8 +130,7 @@ https://colab.research.google.com/drive/1yd33OYJGJpA5hGCuF3Mk_2g-FcgJJY6o?usp=sh
 For your final project you will find or create your own biology/healthcare image dataset. This dataset will consist of at least (2) two categories.
 
 Two possible ways to create your dataset:
-Make one with your own with your camera/phone
-Build one with Image Search (Google/Bing)
+(1) Make one with your own with your camera/phone or (2) Build one with Image Search (Google/Bing)
 
 The idea is to have (at least) two categories for which you will train an inference model. You will then present data from your reserved validation set to evaluate your models ability to distinguish the two categories. For example, pick any living object like ants and then collect photos with and without ants in the pictures. You will then put these pictures on your google drive and run a classification model just like with flowers 102.
 

@@ -122,6 +122,50 @@ Flowers 102
 https://colab.research.google.com/drive/1yd33OYJGJpA5hGCuF3Mk_2g-FcgJJY6o?usp=sharing
 
 
+
+
+## Final Project 
+
+### Data Collection
+For your final project you will find or create your own biology/healthcare image dataset. This dataset will consist of at least (2) two categories.
+
+Two possible ways to create your dataset:
+Make one with your own with your camera/phone
+Build one with Image Search (Google/Bing)
+
+The idea is to have (at least) two categories for which you will train an inference model. You will then present data from your reserved validation set to evaluate your models ability to distinguish the two categories. For example, pick any living object like ants and then collect photos with and without ants in the pictures. You will then put these pictures on your google drive and run a classification model just like with flowers 102.
+
+The more photos you collect the better your model will be. You must have at least 50 photographs for each of your two categories. (This should not take a long time.)
+
+Note you must put around 20% of your images into the valid folder.
+
+Example data folders here: https://drive.google.com/drive/folders/1Je_gRF8RnhszAAbQhw2IzqM2_7byPVtL?usp=sharing
+
+Example Ideas: 
+
+Ex1 Camera: Ant finder
+Close up of ground/floor with ants in photo
+Close up photo with no ants
+
+Ex2 Camera: 
+Palm tree with coconuts
+Palm tree with dates
+    (Both are all over FAU)
+
+Ex3 Web Search:
+Marine animal (bird)
+Marine animal covered in oil from oil spill 
+
+Ex4 Web Search:
+Burrowing owl adult 
+Burrowing owl chick
+
+Please email me if you have any trouble getting your data loaded.
+
+### Notebook
+https://colab.research.google.com/drive/1lpKzFno6F-XEFiLkJ3_Sc-pIFUCwJ9kc?usp=sharing
+
+
 <!--
 ## Lab 6
 ### Notebook

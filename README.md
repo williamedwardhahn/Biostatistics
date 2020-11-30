@@ -143,21 +143,16 @@ Example data folders here: https://drive.google.com/drive/folders/1Je_gRF8RnhszA
 Example Ideas: 
 
 Ex1 Camera: Ant finder
-Close up of ground/floor with ants in photo
-Close up photo with no ants
+Close up of ground/floor with ants in photo vs Close up photo with no ants
 
 Ex2 Camera: 
-Palm tree with coconuts
-Palm tree with dates
-    (Both are all over FAU)
+Palm tree with coconuts vs Palm tree with dates (Both are all over FAU)
 
 Ex3 Web Search:
-Marine animal (bird)
-Marine animal covered in oil from oil spill 
+Marine animal (bird) vs Marine animal covered in oil from oil spill 
 
 Ex4 Web Search:
-Burrowing owl adult 
-Burrowing owl chick
+Burrowing owl adult vs Burrowing owl chick
 
 Please email me if you have any trouble getting your data loaded.
 
